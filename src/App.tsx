@@ -1,11 +1,7 @@
-import RecipeApp from "./Components/RecipeApp";
+import React from "react";
 
 const App = () => {
-  return (
-    <div>
-      <RecipeApp />
-    </div>
-  );
+  return <div>App</div>;
 };
 
 export default App;
